@@ -1,0 +1,184 @@
+[
+  {
+    "model": "mainapp.lesson",
+    "pk": 11,
+    "fields": {
+      "course": 1,
+      "num": 1,
+      "title": "Lesson 1",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 12,
+    "fields": {
+      "course": 1,
+      "num": 2,
+      "title": "Lesson 2",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 13,
+    "fields": {
+      "course": 1,
+      "num": 3,
+      "title": "Lesson 3",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 14,
+    "fields": {
+      "course": 1,
+      "num": 4,
+      "title": "Lesson 4",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 15,
+    "fields": {
+      "course": 1,
+      "num": 5,
+      "title": "Lesson 5",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 16,
+    "fields": {
+      "course": 1,
+      "num": 6,
+      "title": "Lesson 6",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 17,
+    "fields": {
+      "course": 1,
+      "num": 7,
+      "title": "Lesson 7",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 18,
+    "fields": {
+      "course": 1,
+      "num": 8,
+      "title": "Lesson 8",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 21,
+    "fields": {
+      "course": 2,
+      "num": 1,
+      "title": "Lesson 1",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 22,
+    "fields": {
+      "course": 2,
+      "num": 2,
+      "title": "Lesson 2",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 23,
+    "fields": {
+      "course": 2,
+      "num": 3,
+      "title": "Lesson 3",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 24,
+    "fields": {
+      "course": 2,
+      "num": 4,
+      "title": "Lesson 4",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 25,
+    "fields": {
+      "course": 2,
+      "num": 5,
+      "title": "Lesson 5",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  },
+  {
+    "model": "mainapp.lesson",
+    "pk": 26,
+    "fields": {
+      "course": 2,
+      "num": 6,
+      "title": "Lesson 6",
+      "description": "Описание урока",
+      "description_as_markdown": false,
+      "created": "2021-07-11T12:53:26.832Z",
+      "updated": "2021-07-11T12:53:26.833Z"
+    }
+  }
+]
