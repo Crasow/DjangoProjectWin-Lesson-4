@@ -8,20 +8,25 @@ def forwards_func(apps, schema_editor):
     Course = apps.get_model("mainapp", "Courses")
 
     CourseTeachers.objects.create(
-        course=Course.objects.get(id=1),
         name_first='Iakov',
         name_second='Saiko',
+        day_birth="1988-02-04",
     )
     CourseTeachers.objects.create(
-        course=Course.objects.get(id=1),
         name_first='Sax',
         name_second='Alex',
+        day_birth="1988-02-04",
     )
     CourseTeachers.objects.create(
-        course=Course.objects.get(id=1),
         name_first='Rek',
         name_second='Zukov',
+        day_birth="1988-02-04",
     )
+
+    CourseTeachers.objects.get(pk=1).course.add(1)
+    CourseTeachers.objects.get(pk=1).course.add(2,5)
+    CourseTeachers.objects.get(pk=1).course.add(3)
+
 
 
 def reverse_func(apps, schema_editor):
